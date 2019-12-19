@@ -1,0 +1,9 @@
+
+
+https://www.nltk.org/data.html
+
+$pip install --user -U nltk
+
+# To download all language models
+
+$python -m nltk.downloader all
