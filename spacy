@@ -1,0 +1,14 @@
+(i) Create conda environment
+Command: conda create -n sp --clone base
+
+(ii) Activate the conda environment
+Command: conda activate sp
+
+(iii) Install Spacy
+Command: conda install -c conda-forge spacy
+
+(iv) Test the installation
+Command: python -c "import os; import spacy; print(os.path.dirname(spacy.__file__))"
+
+(v) Deactivate the environment to go to base environment
+Command: conda deactivate
