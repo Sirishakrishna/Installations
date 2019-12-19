@@ -1,1 +1,15 @@
-$pip install tensorflow
+
+(i) Create a conda environment
+Command: conda create -n tf2 --clone base
+
+(ii) Activate the conda environment.
+Command: conda activate tf2
+
+(iii) Install Tensorflow 2.0
+ pip install tensorflow
+ 
+(iv)Test the installation
+Command: python -c “import tensorflow as tf”
+
+(v) Deactivate the environment to go to base environment
+Command: conda deactivate
