@@ -4,3 +4,4 @@ Installations
 2. python debugger
 3. NLTK
 4. Scikit Learn
+5. TensorFlow
