@@ -2,7 +2,15 @@ https://www.anaconda.com/distribution/
 
 Click on the above link: Go to Downloads (Select the type of OS: Windows/macOS/Linux)
 
+Below I am installing in Linux Machine (Ubuntu 18.04.3 LTS)
+
 $bash ~/Downloads/Anaconda3-2019.10-Linux-x86_64.sh
 
 Follow the instructions..<Do..>
+
+$anaconda-navigator
+You can see Jupyter Notebook, Spyder, RStudio, Orange 3, Glueviz etc.
+
+
+
 
